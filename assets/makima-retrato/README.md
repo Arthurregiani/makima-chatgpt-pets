@@ -1,0 +1,1 @@
+Arquivos do pet Makima — Retrato serão adicionados nesta pasta.
