@@ -1,1 +1,1 @@
-Arquivos do pet Makima serão adicionados nesta pasta.
+Spritesheet v2 e prévias animadas do pet Makima. Veja o README principal para instruções de instalação e uso.
