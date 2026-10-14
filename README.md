@@ -20,7 +20,7 @@
 <td align="center"><strong>02 · Retrato</strong><br>Rosto maior, olhar atento e presença mais próxima.</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/Arthurregiani/makima-chatgpt-pets/releases/download/v1.0.0/makima-chatgpt.png"><img src="docs/media/download-original.svg" alt="Baixar Makima — PNG pronto para carregar" width="280"></a><br><sub>PNG transparente · 0,84 MiB</sub></td>
+<td align="center"><a href="https://github.com/Arthurregiani/makima-chatgpt-pets/releases/download/v1.0.0/makima-chatgpt.png"><img src="docs/media/download-original.svg" alt="Baixar Makima — Corpo inteiro — PNG pronto para carregar" width="280"></a><br><sub>PNG transparente · 0,84 MiB</sub></td>
 <td align="center"><a href="https://github.com/Arthurregiani/makima-chatgpt-pets/releases/download/v1.0.0/makima-retrato-chatgpt.png"><img src="docs/media/download-retrato.svg" alt="Baixar Makima — Retrato — PNG pronto para carregar" width="280"></a><br><sub>PNG transparente · 2,03 MiB</sub></td>
 </tr>
 </table>
@@ -54,7 +54,7 @@ Em interfaces em inglês: **Settings → Personalization → Pet → Select pet*
 
 ### 3. Use “Carregar um mascote”
 
-No seletor, clique em **Carregar um mascote** — **Upload pet**, em inglês. Selecione o PNG que você baixou e conclua o carregamento indicado pela interface. Se houver um campo de nome, use **Makima** ou **Makima — Retrato**.
+No seletor, clique em **Carregar um mascote** — **Upload pet**, em inglês. Selecione o PNG que você baixou e conclua o carregamento indicado pela interface. Se houver um campo de nome, use **Makima — Corpo inteiro** ou **Makima — Retrato**.
 
 Carregue o **PNG**, não o ZIP, o GIF de demonstração ou a imagem de capa deste README.
 
