@@ -16,7 +16,7 @@
 <td align="center" width="50%"><img src="docs/media/makima-retrato-idle.gif" alt="Makima em enquadramento próximo, destacando o rosto e os olhos dourados" width="360"></td>
 </tr>
 <tr>
-<td align="center"><strong>01 · Original</strong><br>Corpo inteiro, silhueta elegante e postura comedida.</td>
+<td align="center"><strong>01 · Corpo inteiro</strong><br>Corpo inteiro, silhueta elegante e postura comedida.</td>
 <td align="center"><strong>02 · Retrato</strong><br>Rosto maior, olhar atento e presença mais próxima.</td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ Use um dos botões acima. Você só precisa de **um PNG para cada mascote**:
 
 | Sua escolha | Arquivo que deve ser carregado |
 | :--- | :--- |
-| Makima · Original | `makima-chatgpt.png` |
+| Makima · Corpo inteiro | `makima-chatgpt.png` |
 | Makima · Retrato | `makima-retrato-chatgpt.png` |
 
 Salve o arquivo como PNG no seu computador. Se abriu uma imagem no navegador, use **Salvar imagem como…**. Preserve a imagem inteira, com sua transparência e dimensões originais.
@@ -68,7 +68,7 @@ Escolha o mascote recém-carregado no mesmo seletor. Ele aparece nos chats compa
 
 A [release v1.0.0](https://github.com/Arthurregiani/makima-chatgpt-pets/releases/tag/v1.0.0) oferece:
 
-- **`makima-chatgpt.png`** — carregamento da versão Original.
+- **`makima-chatgpt.png`** — carregamento da versão Corpo inteiro.
 - **`makima-retrato-chatgpt.png`** — carregamento da versão Retrato.
 - **`makima-chatgpt-upload.zip`** — os dois PNGs, sem prévias, relatórios ou arquivos de desenvolvimento.
 
