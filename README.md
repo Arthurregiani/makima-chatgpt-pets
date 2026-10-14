@@ -1,110 +1,126 @@
-# Makima — pets animados para ChatGPT
+<p align="center">
+  <img src="docs/media/hero.png" alt="Makima — Gentileza aparente. Presença inquietante. Dois mascotes prontos para carregar no ChatGPT." width="100%">
+</p>
 
-Este repositório oferece duas versões v2 de um pet de fã inspirado na Makima, de
-*Chainsaw Man*, com spritesheets transparentes e prévias animadas:
+<p align="center"><strong>Serena. Enigmática. Sempre no controle.</strong><br>Makima, de <em>Chainsaw Man</em>, em duas versões animadas para acompanhar seu trabalho.</p>
 
-- **Makima** — enquadramento de corpo inteiro;
-- **Makima — Retrato** — enquadramento próximo, com o rosto maior.
+<p align="center"><a href="#escolha-sua-makima">Escolher mascote</a> · <a href="#carregar-no-chatgpt">Como carregar</a> · <a href="https://github.com/Arthurregiani/makima-chatgpt-pets/releases/tag/v1.0.0">Release e downloads</a></p>
 
-As duas versões preservam a trança ruiva, os olhos dourados anelados e o traje
-social escuro. Escolher um pet altera apenas a aparência do ChatGPT; não altera
-as respostas nem as capacidades do produto.
+> **Para começar:** baixe o PNG da versão que você prefere e selecione **Carregar um mascote** nas configurações do ChatGPT. Cada arquivo já está no formato de carregamento; a instalação acontece pela interface do ChatGPT.
 
-## Prévia
+## Escolha sua Makima
 
-| Makima | Makima — Retrato |
-| --- | --- |
-| ![Makima](assets/makima/preview.gif) | ![Makima — Retrato](assets/makima-retrato/preview.gif) |
+<table>
+<tr>
+<td align="center" width="50%"><img src="docs/media/makima-idle.gif" alt="Makima de corpo inteiro, em traje social escuro, com animação discreta" width="360"></td>
+<td align="center" width="50%"><img src="docs/media/makima-retrato-idle.gif" alt="Makima em enquadramento próximo, destacando o rosto e os olhos dourados" width="360"></td>
+</tr>
+<tr>
+<td align="center"><strong>01 · Original</strong><br>Corpo inteiro, silhueta elegante e postura comedida.</td>
+<td align="center"><strong>02 · Retrato</strong><br>Rosto maior, olhar atento e presença mais próxima.</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/Arthurregiani/makima-chatgpt-pets/releases/download/v1.0.0/makima-chatgpt.png"><img src="docs/media/download-original.svg" alt="Baixar Makima — PNG pronto para carregar" width="280"></a><br><sub>PNG transparente · 0,84 MiB</sub></td>
+<td align="center"><a href="https://github.com/Arthurregiani/makima-chatgpt-pets/releases/download/v1.0.0/makima-retrato-chatgpt.png"><img src="docs/media/download-retrato.svg" alt="Baixar Makima — Retrato — PNG pronto para carregar" width="280"></a><br><sub>PNG transparente · 2,03 MiB</sub></td>
+</tr>
+</table>
 
-## Usar no ChatGPT
+Trança ruiva, franja emoldurando o rosto, olhos dourados com anéis concêntricos, camisa branca, gravata preta e roupa social escura. A miniaturização muda a escala; a expressão tranquila e a autoridade inquietante continuam reconhecíveis.
 
-### Instalar pelo app desktop
+**Quer os dois?** [Baixe o pacote com os dois PNGs](https://github.com/Arthurregiani/makima-chatgpt-pets/releases/download/v1.0.0/makima-chatgpt-upload.zip), extraia o ZIP e carregue cada imagem separadamente.
 
-Os links abaixo usam o esquema `codex://` e abrem o fluxo de instalação no app
-desktop do ChatGPT:
+## Carregar no ChatGPT
 
-As duas folhas v2 têm 1536 × 2288 pixels, transparência e menos de 20 MiB:
+<img src="docs/media/upload-flow.svg" alt="1. Baixe o PNG. 2. Carregue nas configurações. 3. Selecione sua Makima." width="100%">
 
-- [Instalar Makima](codex://pets/install?name=Makima&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2FArthurregiani%2Fmakima-chatgpt-pets%2Fmain%2Fassets%2Fmakima%2Fspritesheet.png&description=Makima%20de%20Chainsaw%20Man%3A%20tranca%20ruiva%2C%20olhos%20dourados%20anelados%20e%20traje%20social.&spriteVersionNumber=2)
-- [Instalar Makima — Retrato](codex://pets/install?name=Makima%20%E2%80%94%20Retrato&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2FArthurregiani%2Fmakima-chatgpt-pets%2Fmain%2Fassets%2Fmakima-retrato%2Fspritesheet.png&description=Makima%20em%20enquadramento%20pr%C3%B3ximo%2C%20com%20rosto%20e%20olhos%20dourados%20anelados%20em%20destaque.&spriteVersionNumber=2)
+### 1. Baixe o arquivo certo
 
-1. Instale ou atualize o app desktop do ChatGPT para macOS ou Windows.
-2. Abra este README no computador com o app instalado e clique no link da
-   versão desejada.
-3. Permita que o sistema abra o link `codex://` no ChatGPT, se solicitado.
-4. Revise o nome e a prévia no fluxo exibido e confirme a instalação.
+Use um dos botões acima. Você só precisa de **um PNG para cada mascote**:
 
-### Selecionar, mostrar e ajustar
+| Sua escolha | Arquivo que deve ser carregado |
+| :--- | :--- |
+| Makima · Original | `makima-chatgpt.png` |
+| Makima · Retrato | `makima-retrato-chatgpt.png` |
 
-Depois da instalação:
+Salve o arquivo como PNG no seu computador. Se abriu uma imagem no navegador, use **Salvar imagem como…**. Preserve a imagem inteira, com sua transparência e dimensões originais.
 
-1. Abra **Settings > Pets** no ChatGPT e selecione **Makima** ou
-   **Makima — Retrato**.
-2. No app desktop para macOS ou Windows, use `/pet` ou **Show pet** no menu de
-   comandos para mostrar ou ocultar o pet flutuante.
-3. Para ajustar o tamanho, abra **Settings > Pets > Customize > Pet size**.
+### 2. Abra o seletor de mascotes
 
-### Criar manualmente com uma spritesheet
+No **ChatGPT na web**, abra o menu do seu perfil e vá a:
 
-Se um link `codex://` não abrir, baixe o `spritesheet.png` da versão desejada
-pelos caminhos abaixo e use **Create pet** no app desktop, se essa opção estiver
-disponível:
+**Configurações → Personalização → Mascote → Selecionar mascote**
 
-- [`assets/makima/spritesheet.png`](assets/makima/spritesheet.png)
-- [`assets/makima-retrato/spritesheet.png`](assets/makima-retrato/spritesheet.png)
+Em interfaces em inglês: **Settings → Personalization → Pet → Select pet**. Os rótulos podem variar conforme o idioma e a versão da interface.
 
-No fluxo de criação, carregue a folha, informe um nome e salve o pet. O seletor
-de upload pela web documentado pelo ChatGPT especifica a folha v1 (1536 ×
-1872); estas artes são v2 (1536 × 2288), portanto os links de instalação no
-desktop são a opção indicada para estes arquivos.
+### 3. Use “Carregar um mascote”
 
-## Solução de problemas
+No seletor, clique em **Carregar um mascote** — **Upload pet**, em inglês. Selecione o PNG que você baixou e conclua o carregamento indicado pela interface. Se houver um campo de nome, use **Makima** ou **Makima — Retrato**.
 
-- **O link não abre:** abra o README no app ou navegador do computador, confirme
-  que o ChatGPT desktop está instalado e escolha o ChatGPT quando o sistema
-  perguntar qual aplicativo deve abrir `codex://`.
-- **A instalação não aparece:** atualize o app, entre na conta correta e
-  verifique se **Settings > Pets** está disponível para o seu workspace.
-- **O pet foi instalado, mas não aparece:** selecione-o em **Settings > Pets** e
-  use `/pet` ou **Show pet** no app desktop para exibi-lo.
-- **O tamanho não muda:** ajuste **Settings > Pets > Customize > Pet size** e
-  confirme que o pet está selecionado; esse controle pode não existir em versões
-  antigas do app.
-- **O upload manual falha:** confirme que o arquivo é o `spritesheet.png`
-  completo e tente o fluxo de instalação `codex://`; a documentação pública de
-  upload pode aceitar apenas spritesheets v1.
+Carregue o **PNG**, não o ZIP, o GIF de demonstração ou a imagem de capa deste README.
 
-## Requisitos e limitações
+### 4. Selecione e use
 
-- É necessário usar uma versão do app ChatGPT que ofereça **Pets**; a
-  disponibilidade pode variar por conta, workspace, sistema operacional e
-  versão do aplicativo.
-- A instalação por `codex://` requer o app desktop para macOS ou Windows com
-  esse esquema de links habilitado. O link pode não funcionar em um navegador,
-  no celular ou quando o app não está instalado.
-- A seleção e a personalização ficam em **Settings > Pets**. Os comandos
-  `/pet` e **Show pet** para o pet flutuante são recursos do app desktop.
-- A opção de upload manual e os formatos aceitos podem variar conforme o
-  produto. A documentação pública do upload pela web especifica spritesheets
-  v1; estas imagens são spritesheets v2.
-- O pet é uma camada visual: não muda o modelo, as respostas, as ferramentas
-  nem as permissões da conta.
+Escolha o mascote recém-carregado no mesmo seletor. Ele aparece nos chats compatíveis do **ChatGPT Work**. Para ter as duas opções, repita o carregamento com o outro PNG; depois, alterne entre elas no seletor.
 
-## Arquivos
+> **Disponibilidade:** o menu de mascotes depende da sua conta e do workspace. O mascote da web aparece dentro dos chats compatíveis. O companheiro flutuante do app desktop tem um fluxo próprio e não é o alvo deste tutorial. Escolher um mascote altera sua aparência; não muda a personalidade nem as respostas do ChatGPT.
 
-Cada pasta em `assets/` contém:
+## Uma release, apenas o necessário
 
-- `spritesheet.png` — folha transparente v2 para instalação;
-- `preview.gif` e `preview.mp4` — demonstração animada;
-- `contact-sheet.png` — todas as animações;
-- `idle-jump-idle.gif` — demonstração de movimento vertical;
-- `look-loop.gif` — ciclo com os 16 olhares.
+A [release v1.0.0](https://github.com/Arthurregiani/makima-chatgpt-pets/releases/tag/v1.0.0) oferece:
 
-## Referência oficial
+- **`makima-chatgpt.png`** — carregamento da versão Original.
+- **`makima-retrato-chatgpt.png`** — carregamento da versão Retrato.
+- **`makima-chatgpt-upload.zip`** — os dois PNGs, sem prévias, relatórios ou arquivos de desenvolvimento.
 
-- [Pets no ChatGPT](https://learn.chatgpt.com/docs/pets) — escolher, mostrar e redimensionar pets; diferenças entre desktop e web.
-- [Comandos e links profundos](https://learn.chatgpt.com/docs/reference/commands#pets) — fluxo `codex://pets/install` e parâmetro de versão v2.
+Para carregar apenas um mascote, baixe somente o PNG correspondente. Os downloads **Source code** são gerados automaticamente pelo GitHub e contêm o repositório; prefira os arquivos nomeados acima.
 
-## Créditos
+## Compatibilidade verificada
 
-Pet de fã, sem afiliação oficial. Makima e *Chainsaw Man* pertencem aos respectivos criadores e titulares de direitos. Este repositório compartilha as folhas e prévias para uso pessoal no ChatGPT; não concede direitos sobre a personagem ou a obra.
+| Característica | Arquivos desta release |
+| :--- | :--- |
+| Formato | PNG com canal de transparência |
+| Dimensões | **1536 × 1872 px** |
+| Layout | v1 · 8 colunas × 9 linhas |
+| Animações | 9 estados · 57 quadros |
+| Células sem uso | 15, totalmente transparentes |
+| Tamanho | Ambos abaixo do limite de 20 MiB |
+
+As versões de carregamento preservam, pixel a pixel, as nove linhas de animação das artes originais. As duas linhas adicionais de direção do olhar pertencem às folhas v2 e foram omitidas nesta exportação, sem redimensionar os sprites. As folhas v2 e as prévias completas continuam em [`assets/`](assets/).
+
+[Detalhes da exportação e validação](docs/compatibilidade.md) · [Documentação oficial de Pets no ChatGPT](https://learn.chatgpt.com/docs/pets)
+
+## Precisa de ajuda?
+
+<details>
+<summary><strong>O ChatGPT rejeitou o arquivo</strong></summary>
+
+Confira se você escolheu `makima-chatgpt.png` ou `makima-retrato-chatgpt.png` da release. As folhas chamadas `spritesheet.png` em `assets/` são v2, com altura diferente. Baixe novamente o PNG da release se um editor ou serviço de mensagens tiver alterado suas dimensões ou transparência.
+
+</details>
+
+<details>
+<summary><strong>Não aparece “Carregar um mascote”</strong></summary>
+
+O recurso precisa estar disponível para sua conta e habilitado no workspace. Confira o caminho de configurações acima e a [documentação oficial](https://learn.chatgpt.com/docs/pets). Baixar a arte não habilita o recurso em uma conta que ainda não tenha acesso.
+
+</details>
+
+<details>
+<summary><strong>Baixei o ZIP. O que faço agora?</strong></summary>
+
+Extraia o arquivo. Você verá apenas dois PNGs. Carregue um deles pelo seletor de mascotes e repita com o segundo se quiser ambas as opções.
+
+</details>
+
+<details>
+<summary><strong>O mascote está parado</strong></summary>
+
+Os arquivos incluem animações. A interface pode usar uma imagem estática quando a redução de movimento está habilitada. Verifique as configurações de acessibilidade do seu sistema e o contexto em que o mascote está sendo exibido.
+
+</details>
+
+---
+
+<p align="center"><strong>Uma presença discreta. Um olhar que observa.</strong><br><sub>Projeto de fã · Makima / Chainsaw Man · Sem afiliação oficial com OpenAI ou os titulares da obra.</sub></p>
+
+Makima e *Chainsaw Man* pertencem aos respectivos criadores e titulares de direitos. Este projeto compartilha mascotes de fã e não concede direitos sobre a personagem ou a obra.
